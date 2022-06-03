@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/dq_navigation"
+    app:startDestination="@id/likertQuestionsFragment">
+
+    <fragment
+        android:id="@+id/likertQuestionsFragment"
+        android:name="com.philk7.ppaprojectapp.LikertQuestionsFragment"
+        android:label="fragment_likert_questions"
+        tools:layout="@layout/fragment_likert_questions" >
+        <action
+            android:id="@+id/action_likertQuestionsFragment_to_personQuestionsFragment"
+            app:destination="@id/personQuestionsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/personQuestionsFragment"
+        android:name="com.philk7.ppaprojectapp.PersonQuestionsFragment"
+        android:label="fragment_person_questions"
+        tools:layout="@layout/fragment_person_questions" >
+        <action
+            android:id="@+id/action_personQuestionsFragment_to_iotExplainFragment"
+            app:destination="@id/iotExplainFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/personaQuestionsFragment"
+        android:name="com.philk7.ppaprojectapp.PersonaQuestionsFragment"
+        android:label="fragment_persona_questions"
+        tools:layout="@layout/fragment_persona_questions" >
+        <action
+            android:id="@+id/action_personaQuestionsFragment_to_personaResultFragment"
+            app:destination="@id/personaResultFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/introFinalFragment"
+        android:name="com.philk7.ppaprojectapp.IntroFinalFragment"
+        android:label="fragment_intro_final"
+        tools:layout="@layout/fragment_intro_final" >
+        <action
+            android:id="@+id/action_introFinalFragment_to_assistantChoiceFragment"
+            app:destination="@id/assistantChoiceFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/personaResultFragment"
+        android:name="com.philk7.ppaprojectapp.PersonaResultFragment"
+        android:label="fragment_persona_result"
+        tools:layout="@layout/fragment_persona_result" >
+        <action
+            android:id="@+id/action_personaResultFragment_to_introFinalFragment"
+            app:destination="@id/introFinalFragment" />
+        <action
+            android:id="@+id/action_personaResultFragment_to_personaAdjustmentFragment"
+            app:destination="@id/personaAdjustmentFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/personaAdjustmentFragment"
+        android:name="com.philk7.ppaprojectapp.PersonaAdjustmentFragment"
+        android:label="fragment_persona_adjustment"
+        tools:layout="@layout/fragment_persona_adjustment" >
+        <action
+            android:id="@+id/action_personaAdjustmentFragment_to_introFinalFragment"
+            app:destination="@id/introFinalFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/assistantChoiceFragment"
+        android:name="com.philk7.ppaprojectapp.AssistantChoiceFragment"
+        android:label="AssistantChoiceFragment" />
+    <fragment
+        android:id="@+id/iotExplainFragment"
+        android:name="com.philk7.ppaprojectapp.IotExplainFragment"
+        android:label="fragment_iot_explain"
+        tools:layout="@layout/fragment_iot_explain" >
+        <action
+            android:id="@+id/action_iotExplainFragment_to_iotQuestionsFragment"
+            app:destination="@id/iotQuestionsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/iotQuestionsFragment"
+        android:name="com.philk7.ppaprojectapp.IotQuestionsFragment"
+        android:label="fragment_iot_questions"
+        tools:layout="@layout/fragment_iot_questions" >
+        <action
+            android:id="@+id/action_iotQuestionsFragment_to_personaQuestionsFragment"
+            app:destination="@id/personaQuestionsFragment" />
+    </fragment>
+</navigation>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="daily_notification_amount_std">60</integer>
+    <!-- users assigned to random groups, might use this array for this-->
+    <integer-array name="dna_random_groups">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>30</item>
+    </integer-array>
+    <integer-array name="persona_questions_scalas">
+        <item>3</item>
+        <item>3</item>
+        <item>5</item>
+        <item>7</item>
+        <item>7</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+    </integer-array>
+    <integer name="card_slideout_custom_duration">200</integer>
+    <integer name="slow_hide_duration">5000</integer>
+    <integer name="daily_overview_std_time_hour">20</integer>
+    <integer name="daily_overview_std_time_minute">5</integer>
+    <integer name="server_request_timeout_std">3000</integer>
+</resources>

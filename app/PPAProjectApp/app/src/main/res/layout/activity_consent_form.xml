@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ConsentFormActivity">
+
+    <ScrollView
+        style="@style/GeneralPaddingBox"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/primary_color">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/cfPart1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/consent_form_section_header_0" />
+
+            <TextView
+                android:id="@+id/cfPart2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/consent_form_section_0" />
+
+            <TextView
+                android:id="@+id/cfPart3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/consent_form_section_header_1"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/cfPart4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/consent_form_section_1" />
+
+            <TextView
+                android:id="@+id/cfPart5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/consent_form_section_header_2"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/cfPart6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/consent_form_section_2" />
+
+            <TextView
+                android:id="@+id/cfPart7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/consent_form_section_header_3"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/cfPart8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/consent_form_section_3" />
+
+            <TextView
+                android:id="@+id/cfPart9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/consent_form_section_header_4"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/cfPart10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/consent_form_section_4" />
+
+            <TextView
+                android:id="@+id/cfPart11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/consent_form_section_header_5"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/cfPart12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/consent_form_section_5" />
+
+            <TextView
+                android:id="@+id/cfPart13"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/consent_form_section_header_6"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/cfPart14"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/consent_form_section_6" />
+
+            <TextView
+                android:id="@+id/cfPart15"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/contact1"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/cfPart16"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/contact2"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.Barrier
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:barrierDirection="top" />
+
+            <CheckBox
+                android:id="@+id/consentFormReadCheck"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/consent_form_read_text" />
+
+            <Button
+                android:id="@+id/consentFormReadButton"
+                style="@style/Button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/consent_form_read_button_text" />
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

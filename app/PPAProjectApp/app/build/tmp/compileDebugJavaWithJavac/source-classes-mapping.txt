@@ -1,0 +1,92 @@
+com/philk7/ppaprojectapp/databinding/ActivityMidtermSurveyBinding.java
+ com.philk7.ppaprojectapp.databinding.ActivityMidtermSurveyBinding
+com/philk7/ppaprojectapp/databinding/FragmentDailyDecisionsBinding.java
+ com.philk7.ppaprojectapp.databinding.FragmentDailyDecisionsBinding
+com/philk7/ppaprojectapp/databinding/FragmentIotExplainBindingImpl.java
+ com.philk7.ppaprojectapp.databinding.FragmentIotExplainBindingImpl
+com/philk7/ppaprojectapp/databinding/FragmentPersonaShowBinding.java
+ com.philk7.ppaprojectapp.databinding.FragmentPersonaShowBinding
+com/philk7/ppaprojectapp/databinding/FragmentIntroFinalBinding.java
+ com.philk7.ppaprojectapp.databinding.FragmentIntroFinalBinding
+com/philk7/ppaprojectapp/databinding/FragmentMovementTestingBindingImpl.java
+ com.philk7.ppaprojectapp.databinding.FragmentMovementTestingBindingImpl
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/philk7/ppaprojectapp/databinding/FragmentPersonaResultBindingImpl.java
+ com.philk7.ppaprojectapp.databinding.FragmentPersonaResultBindingImpl
+com/philk7/ppaprojectapp/databinding/FragmentPersonaAdjustmentBindingImpl.java
+ com.philk7.ppaprojectapp.databinding.FragmentPersonaAdjustmentBindingImpl
+com/philk7/ppaprojectapp/databinding/FragmentDecisionPanelBinding.java
+ com.philk7.ppaprojectapp.databinding.FragmentDecisionPanelBinding
+com/philk7/ppaprojectapp/databinding/FragmentAssistantChoiceBinding.java
+ com.philk7.ppaprojectapp.databinding.FragmentAssistantChoiceBinding
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/philk7/ppaprojectapp/databinding/FragmentIntroFinalBindingImpl.java
+ com.philk7.ppaprojectapp.databinding.FragmentIntroFinalBindingImpl
+com/philk7/ppaprojectapp/databinding/FragmentPersonaQuestionsBinding.java
+ com.philk7.ppaprojectapp.databinding.FragmentPersonaQuestionsBinding
+com/philk7/ppaprojectapp/databinding/FragmentIotQuestionsBindingImpl.java
+ com.philk7.ppaprojectapp.databinding.FragmentIotQuestionsBindingImpl
+com/philk7/ppaprojectapp/BuildConfig.java
+ com.philk7.ppaprojectapp.BuildConfig
+com/philk7/ppaprojectapp/databinding/FragmentDevModeBindingImpl.java
+ com.philk7.ppaprojectapp.databinding.FragmentDevModeBindingImpl
+com/philk7/ppaprojectapp/databinding/FragmentHomeBindingImpl.java
+ com.philk7.ppaprojectapp.databinding.FragmentHomeBindingImpl
+com/philk7/ppaprojectapp/databinding/FragmentSharedPrefViewerBinding.java
+ com.philk7.ppaprojectapp.databinding.FragmentSharedPrefViewerBinding
+com/philk7/ppaprojectapp/databinding/FragmentDevModeBinding.java
+ com.philk7.ppaprojectapp.databinding.FragmentDevModeBinding
+com/philk7/ppaprojectapp/databinding/FragmentIotQuestionsBinding.java
+ com.philk7.ppaprojectapp.databinding.FragmentIotQuestionsBinding
+com/philk7/ppaprojectapp/DataBinderMapperImpl.java
+ com.philk7.ppaprojectapp.DataBinderMapperImpl
+ com.philk7.ppaprojectapp.DataBinderMapperImpl$InnerBrLookup
+ com.philk7.ppaprojectapp.DataBinderMapperImpl$InnerLayoutIdLookup
+com/philk7/ppaprojectapp/databinding/FragmentMovementTestingBinding.java
+ com.philk7.ppaprojectapp.databinding.FragmentMovementTestingBinding
+com/philk7/ppaprojectapp/BR.java
+ com.philk7.ppaprojectapp.BR
+com/philk7/ppaprojectapp/databinding/FragmentLikertQuestionsBindingImpl.java
+ com.philk7.ppaprojectapp.databinding.FragmentLikertQuestionsBindingImpl
+com/philk7/ppaprojectapp/databinding/FragmentPersonQuestionsBindingImpl.java
+ com.philk7.ppaprojectapp.databinding.FragmentPersonQuestionsBindingImpl
+com/philk7/ppaprojectapp/databinding/FragmentPersonQuestionsBinding.java
+ com.philk7.ppaprojectapp.databinding.FragmentPersonQuestionsBinding
+com/philk7/ppaprojectapp/databinding/FragmentDecisionPanelBindingImpl.java
+ com.philk7.ppaprojectapp.databinding.FragmentDecisionPanelBindingImpl
+com/philk7/ppaprojectapp/databinding/FragmentDecisionMakingBindingImpl.java
+ com.philk7.ppaprojectapp.databinding.FragmentDecisionMakingBindingImpl
+com/philk7/ppaprojectapp/databinding/FragmentPersonaQuestionsBindingImpl.java
+ com.philk7.ppaprojectapp.databinding.FragmentPersonaQuestionsBindingImpl
+com/philk7/ppaprojectapp/databinding/FragmentDailyDecisionsBindingImpl.java
+ com.philk7.ppaprojectapp.databinding.FragmentDailyDecisionsBindingImpl
+com/philk7/ppaprojectapp/databinding/FragmentPersonaAdjustmentBinding.java
+ com.philk7.ppaprojectapp.databinding.FragmentPersonaAdjustmentBinding
+com/philk7/ppaprojectapp/databinding/FragmentAssistantChoiceBindingImpl.java
+ com.philk7.ppaprojectapp.databinding.FragmentAssistantChoiceBindingImpl
+com/philk7/ppaprojectapp/databinding/ActivityLocationIndicationBinding.java
+ com.philk7.ppaprojectapp.databinding.ActivityLocationIndicationBinding
+com/philk7/ppaprojectapp/databinding/FragmentPersonaShowBindingImpl.java
+ com.philk7.ppaprojectapp.databinding.FragmentPersonaShowBindingImpl
+com/philk7/ppaprojectapp/databinding/FragmentIotExplainBinding.java
+ com.philk7.ppaprojectapp.databinding.FragmentIotExplainBinding
+com/philk7/ppaprojectapp/databinding/FragmentPersonaResultBinding.java
+ com.philk7.ppaprojectapp.databinding.FragmentPersonaResultBinding
+com/philk7/ppaprojectapp/databinding/ActivityLocationIndicationBindingImpl.java
+ com.philk7.ppaprojectapp.databinding.ActivityLocationIndicationBindingImpl
+com/philk7/ppaprojectapp/databinding/ActivityMidtermSurveyBindingImpl.java
+ com.philk7.ppaprojectapp.databinding.ActivityMidtermSurveyBindingImpl
+com/philk7/ppaprojectapp/databinding/FragmentDecisionMakingBinding.java
+ com.philk7.ppaprojectapp.databinding.FragmentDecisionMakingBinding
+com/philk7/ppaprojectapp/databinding/FragmentLikertQuestionsBinding.java
+ com.philk7.ppaprojectapp.databinding.FragmentLikertQuestionsBinding
+com/philk7/ppaprojectapp/databinding/FragmentSharedPrefViewerBindingImpl.java
+ com.philk7.ppaprojectapp.databinding.FragmentSharedPrefViewerBindingImpl
+com/philk7/ppaprojectapp/databinding/FragmentHomeBinding.java
+ com.philk7.ppaprojectapp.databinding.FragmentHomeBinding
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/philk7/ppaprojectapp/DataBindingTriggerClass.java
+ com.philk7.ppaprojectapp.DataBindingTriggerClass

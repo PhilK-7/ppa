@@ -1,0 +1,340 @@
+<resources>
+    <string name="app_name">Privacy Personas</string>
+    <string name="app_show_name">Privacy Personas</string>
+    <string name="backend_address">ppa2.tk.informatik.tu-darmstadt.de</string>
+    <string name="home_frag1_title">@string/app_show_name</string>
+    <string name="home_frag2_title">Consent Form</string>
+    <string name="home_frag3_title">Decisions</string>
+    <string name="home_frag5_title">Shared Preferences</string>
+    <string name="main_sharedpref_name">ppa_sp</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="initial_thank_you">Thank you for participating in our study. To make sure that we can reimburse you for participation, we need your Prolific ID. \n\nPlease enter the ID to the text field below:</string>
+    <string name="id_enter_continue_button_text">Continue</string>
+    <string name="cf_ab_title">Consent Form</string>
+
+    <string name="consent_form_section_header_0">You are invited to participate in the online study “perceptions of IoT devices” initiated and conducted by Karola Marky, M. Sc. The research is supervised by Prof. Dr. Max Mühlhäuser at Technical University of Darmstadt, Germany. The guidelines of the German Research Foundation (DFG) stipulate that the participants in empirical studies explicitly and comprehensibly agree with their signature that they voluntarily participate in our research. For this reason, we would like to ask you to read the following explanations on the content of the study and to sign the consent form below if you agree. If you have any questions or complaints about the process of this research study or your rights as a human research subject, please contact Karola Marky (E-Mail: karola.marky@tu-darmstadt.de). This study examines information privacy. In this study, you fill out questionnaires about information privacy. The data collected will be evaluated for scientific purposes.
+\n\n</string>
+    <string name="consent_form_section_header_1">1. Purpose and Goal of this Research \n</string>
+    <string name="consent_form_section_header_2">2. Data Protection \n</string>
+    <string name="consent_form_section_header_3">3. Confidentiality and Data Storage \n</string>
+    <string name="consent_form_section_header_4">4. Voluntariness &amp; rights of the participants \n</string>
+    <string name="consent_form_section_header_5">5. Procedure \n</string>
+    <string name="consent_form_section_header_6">6. Identification of Investigators \n</string>
+
+    <string name="consent_form_section_0">As a participant in this study, you are not exposed to any risk beyond the risks of everyday life. Further, you may terminate participation in the study at any time without giving any reason and without any disadvantages. In the event of termination, all data collected up to that point will be deleted.
+\n\n
+        Please note:
+        \n\n
+• Your participation is entirely voluntary. \n
+• The duration of the online survey as well as the compensation is according to the information provided at the Prolific website. \n
+\n\n</string>
+    <string name="consent_form_section_1">The purpose of this research is to study “perceptions of IoT devices”. It is part of a research project of the research group of Telecooperation at Technical University of Darmstadt, Germany with the goal to investigate user perceptions of IoT devices in your surroundings. Your participation will help us to achieve this goal. The results of this research project may be presented at scientific or professional meetings or published in scientific proceedings and journals.
+\n\n</string>
+    <string name="consent_form_section_2">The data processing of this study is carried out in accordance with the data protection provisions of the General Data Protection Regulation (GDPR) and the Hessian Data Protection and Freedom of Information Act (HDSIG). The data will be used exclusively for the purposes described in this information text (see above in Section 1). \n\n
+• The following general data is collected within the scope of this study: questionnaire responses. \n
+• The following personal data is collected: Age, gender, educational level, occupation.
+\n\n</string>
+    <string name="consent_form_section_3">All data collected within the scope of this study are confidential and will only be used anonymously. Demographic data, such as age or gender, do not allow a clear conclusion to be drawn about your person. We will never ask you to give your name or any other unambiguous information at any time during the respective study. The data collected with this study will be stored at the Department of Telecooperation at the Technical University of Darmstadt (Germany) and the survey provider (https://www.soscisurvey.de/). The data will be deleted after 10 years at the latest by the project partners and 94 days after closing the survey from the survey provider. Faculty and administrators from the campus will not have access to raw data or transcripts. This precaution will prevent your individual comments from having any negative repercussions. Despite careful control of content, the researchers assume no liability for damages, which directly or indirectly result from the use of the survey provider. Any recordings cannot be viewed by anyone outside this research project unless we have you sign a separate permission form allowing us to use them. The records will be destroyed after the end of the research, as required by the funding organization or if you contact the researcher to destroy or delete them immediately. As with any publication or online related activity, the risk of a breach of privacy is always possible. According to the GDPR, the researchers will inform the participant if a breach of confidential data was detected.
+\n\n</string>
+    <string name="consent_form_section_4">
+        Your participation in this investigation is voluntary. You are free to cancel your participation at any time during this study and thus withdraw your consent (revocation), without this resulting in any disadvantages for you besides not receiving the compensation detailed on the Prolific website. If you cancel your participation, no data from you will be stored and all existing personal data will be destroyed. You have the right to obtain information about the personal data concerning you and, if necessary, to demand its correction or deletion.
+\n\n
+    </string>
+    <string name="consent_form_section_5">
+        After confirming your informed consent you will: \n
+1. receive a set of questionnaires and notifications that ask you to fulfill a specific task over a period of 2 weeks \n
+2. receive a demographics questionnaire.
+\n\n
+    </string>
+    <string name="consent_form_section_6">
+        If you have any questions or concerns about the research, please feel free to contact: \n\n
+    </string>
+    <string name="contact1">Dr. Karola Marky \n
+Researcher \n
+Technical University of Darmstadt \n
+Hochschulstr. 10 \n
+64289 Darmstadt, Germany \n</string>
+    <string name="contact2">Prof. Dr. Max Mühlhäuser \n
+Professor/Head of Department \n
+Technical University of Darmstadt \n
+Hochschulstr. 10 \n
+64289 Darmstadt, Germany \n</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="consent_form_read_button_text">Proceed to the study</string>
+    <string name="previous_button">Previous</string>
+    <string name="next_button">Next</string>
+    <string name="gender_question">With which gender do you identify most?</string>
+    <string name="age_question">How old are you?</string>
+    <string name="age_st1">I am</string>
+    <string name="age_st2">years old.</string>
+    <string name="country_question">In which country do you reside?</string>
+    <string name="employment_question_text">What describes your current employment status best?</string>
+    <string name="internet_question_text">How often do you use the Internet?</string>
+    <string name="election_question_text">Have you already participated in an online election?</string>
+    <string name="participation_question_text">If your country would offer online voting for political elections would you participate?</string>
+    <string name="pqe_text">Please explain your answer...</string>
+    <string-array name="likert_questions">
+        <item name="lq1">I like to occupy myself in greater detail with technical systems.</item>
+        <item name="lq2">I like testing the functions of new technical systems.</item>
+        <item name="lq3">I predominantly deal with technical systems because I have to.</item>
+        <item name="lq4">When I have a new technical system in front of me, I try it out intensively.</item>
+        <item name="lq5">I enjoy spending time becoming acquainted with a new technical system.</item>
+        <item name="lq6">It is enough for me that a technical system works; I don’t care how or why.</item>
+        <item name="lq7">I try to understand how a technical system exactly works.</item>
+        <item name="lq8">It is enough for me to know the basic functions of a technical system.</item>
+        <item name="lq9">I try to make full use of the capabilities of a technical system.</item>
+    </string-array>
+    <string-array name="persona_questions">
+        <item>I am highly motivated to protect my information privacy.</item>
+        <item>I know how to protect my information privacy.</item>
+        <item>My own privacy is very important to me.</item>
+        <item>I\'m concerned that online companies are collecting too much personal information about me.</item>
+        <item>It is very important to me that I am aware and knowledgeable about how my personal information will be used.</item>
+        <item>I often procrastinate when it comes to making important decisions.</item>
+        <item>I generally make important decisions at the last minute.</item>
+        <item>I make quick decisions.</item>
+        <item>I am often interested in articles about security threats.</item>
+    </string-array>
+    <string name="title_activity_home">Home</string>
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="intro_finish_button_text">Done</string>
+    <string name="rate_description_text">How well does the description match your privacy attitudes?</string>
+    <string name="description_fit_reasoning_text">Please state why the description fits or does not fit you.</string>
+    <string name="further_aspects_text">What further aspects describe your attitude about information privacy well?</string>
+    <string name="describe_aspect_text">Which aspect describes you best?</string>
+    <string name="result_header_text">Based on the questions that you have answered, the following privacy profile was assigned to you. Please read the profile carefully.</string>
+    <string name="persona_description_placeholder">Persona Description Points</string>
+    <string name="continue_forking_button_text">Continue</string>
+    <string name="description_match_degree_text">How well does this description apply to you?</string>
+    <string name="pp_assigned_text">Your Privacy Persona has been assigned.</string>
+    <string name="consent_form_read_text">I’ve read and understood the consent form</string>
+    <string name="gq_option1">female</string>
+    <string name="gq_option2">male</string>
+    <string name="gq_option3">other</string>
+    <string name="gq_option4">prefer not to say</string>
+    <string name="eq_option1">Full-time employed</string>
+    <string name="eq_option2">Part-time employed</string>
+    <string name="eq_option3">Unemployed and in search</string>
+    <string name="eq_option4">Unemployed and not in search</string>
+    <string name="eq_option5">Student</string>
+    <string name="eq_option6">Retired</string>
+    <string name="eq_option7">House man / wife</string>
+    <string name="eq_option8">Self-employed</string>
+    <string name="eq_option9">Unfit for work</string>
+    <string name="eq_option10">Other</string>
+    <string name="eq_option11">No indication</string>
+    <string name="iq_option1">Daily</string>
+    <string name="iq_option2">Every other day</string>
+    <string name="iq_option3">Once a week</string>
+    <string name="iq_option4">Less than once a week</string>
+    <string name="yesno_yes">Yes</string>
+    <string name="yesno_no">No</string>
+    <string name="to_pa_button_text">Persona Assignment</string>
+    <string name="likert_min_text">Strongly disagree</string>
+    <string name="likert_max_text">Strongly agree</string>
+    <string name="match_min_text">Not at all</string>
+    <string name="match_max_text">Perfect match</string>
+    <string name="consent_form_card_title">Consent Form</string>
+    <string name="cf_description">Go to Consent Form</string>
+    <string name="privacy_persona_card_title">Privacy Persona</string>
+    <string name="decision_card_description">View your made privacy decisions</string>
+    <string name="decision_card_text">Decisions</string>
+    <string name="pp_header_text">Your Privacy Persona is:</string>
+    <string name="pp_number_placeholder">Number</string>
+    <string name="pp_code_placeholder">\????</string>
+    <string name="id_enter_hint">Your Prolific ID...</string>
+    <string name="pp_description">View your Privacy Persona</string>
+    <string name="gender_custom_hint">Your gender...</string>
+    <string name="country_custom_hint">Your country...</string>
+    <string name="age_hint">Age</string>
+    <string name="empl_custom_hint">Your employment...</string>
+    <string name="dev_card_title">Dev Mode</string>
+    <string name="normal_channel_description">Regular channel for Privacy Personas app</string>
+    <string name="special_channel_description">Special channel for Privacy Personas app</string>
+    <string name="timestamp_placeholder">Timestamp</string>
+    <string name="place_placeholder">Place</string>
+    <string name="device_placeholder">Device</string>
+    <string name="data_placeholder">Data</string>
+    <string name="access_placeholder">Access</string>
+    <string name="access_indicator">Access indicator</string>
+    <string name="daily_overview_label">Daily Overview Settings</string>
+    <string name="notification_setting_header">Daily Overview Notification Setting</string>
+    <string name="notification_time_label">Notification Time:</string>
+    <string name="toggle_notification_text">Toggle Notification</string>
+    <string name="timechange_button_text">Change Time</string>
+    <string name="notification_time_placeholder">00:00</string>
+    <string name="today_decisions_header">Today\'s Decisions</string>
+    <string name="dd_descr_h1">Today, a total amount of</string>
+    <string name="dd_descr_h2"> privacy decisions were made.</string>
+    <string name="number_placeholder">N</string>
+    <string name="create_exnotf_header">Create example notification</string>
+    <string name="show_notf_button_text">Show now</string>
+    <string name="show_soon_button_text">Do in 10 seconds</string>
+    <string name="show_at_time_button_text">Do at…</string>
+    <string name="show_interval_button_text">Do every minute</string>
+    <string name="show_multi_button_text">Show multi</string>
+    <string name="na_button_text">Notification Assistant</string>
+    <string name="ra_button_text">Recommendation Assistant</string>
+    <string name="auto_button_text">Automatic Assistant</string>
+    <string name="confirm_choice_button">Confirm Choice</string>
+    <string name="na_header">Free Choice</string>
+    <string name="ra_header">Choice With Influence</string>
+    <string name="auto_header">Autonomous Decisions</string>
+    <string name="na_descr">
+        The Notification Assistant lets you choose every time whether to allow or deny data
+        collection of a device. It cannot make any decisions by itself, and also does not influence
+        you.
+    </string>
+    <string name="ra_descr">
+        The Recommendation Assistant also lets you choose whether to accept data collection,
+        but differs from the Notification Assistant in the sense that it recommends privacy
+        decisions.
+    </string>
+    <string name="auto_descr">
+        The Automatic Assistant makes privacy decisions automatically, without your input. Choose
+        it if you want to exchange freedom of decision for unobtrusiveness. This also activates the
+        Daily Decision Overview reminder.
+    </string>
+    <string name="empty_placeholder" />
+    <string name="descr_placeholder">Finally, please consider the different privacy assistants.</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="pid_warning">Please make sure your ID is correct. Otherwise, you won\'t be able to receive your compensation.</string>
+    <string name="ctnt_descr_mask">Mask Icon</string>
+    <string name="iot_question_text">Have you heard about the so-called “Internet of Things” (IoT)?</string>
+    <string name="how_iot_question_hint">How have you heard about the IoT?</string>
+    <string name="iot_explanation_text_part1">The Internet of Things means that everyday items
+        (e.g., household devices, mobile devices) have computation and network capabilities.
+        Such devices are called </string>
+    <string name="iot_explanation_bold_part"> IoT devices</string>
+    <string name="iot_explanation_text_part2">
+        . IoT devices can collect and process data.
+        Depending on the specific device, a human is not needed to initiate data collection
+        and processing. For instance, a smart watch can autonomously monitor and capture heart rate.
+        The data can then be transferred to a provider (e.g., via the Internet) and stored in
+        a cloud, or be proceeded locally (e.g., within a smart home).
+    </string>
+    <string name="iot_explanation_read_text">I have read the explanation for Internet of Things.</string>
+    <string name="iot_continue_button_text">Continue</string>
+    <string name="iot_question2_text">Do you own IoT devices?</string>
+    <string name="iot_listing_hint">Which IoT devices do you own?</string>
+    <string name="to_iot_section_button_text">More about IoT</string>
+    <string name="sp_card_title">Shared Preferences</string>
+    <string name="survey_link_placeholder">Put survey link here...</string>
+    <string name="steps_header">Steps</string>
+    <string name="location_header">Location</string>
+    <string name="steps_placeholder"><![CDATA[<steps>]]></string>
+    <string name="location_placeholder"><![CDATA[<location>]]></string>
+    <string name="mv_card_title">Movement Testing</string>
+    <string name="decision_header_text">Please make a decision for every device:</string>
+    <string name="place_question_text">Where are you right now?</string>
+    <string name="comment_header">Explain your answer(s) / optional comment:</string>
+    <string name="button_done_text">done</string>
+    <string name="receive_question_text">Would you like to receive this notification?</string>
+    <string name="location_question">Where are you right now?</string>
+    <string name="set_location_button_text">Set location...</string>
+    <string name="confirm_button">Confirm</string>
+    <string name="custom_place_hint">Other place...</string>
+    <string name="show_rec_button_text">Show rec.</string>
+    <string name="show_multi_rec_button_text">Show Multi Rec.</string>
+    <string name="change_assistant_button_text">Change Assistant</string>
+    <string name="permissions_info_text">
+        This app requires an internet connection.
+                                         It also needs access to your phone\'s step sensor.
+                                         You might be asked to permit access to activities.
+                                         Please permit access, so the app can use the step sensor.
+                                         It needs it to work as intended.
+    </string>
+
+    <string-array name="persona_results_description_sents">
+        // 0
+        <item>I am highly motivated to protect my information privacy.</item>
+        <item>I am a little motivated to protect my information privacy.</item>
+        <item>I am not really motivated to protect my information privacy.</item>
+        // 3
+        <item>I know how to protect my information privacy.</item>
+        <item>I have some knowledge of how to protect my information privacy.</item>
+        <item>I don\'t really know how to protect my information privacy.</item>
+        <item>I do not know how to protect my information privacy.</item>
+        // 7
+        <item>My own privacy is very important to me.</item>
+        <item>My own privacy is not too important to me.</item>
+        // 9
+        <item>I often am interested in articles about security threats.</item>
+        <item>Sometimes, I am interested in articles about security threats.</item>
+        <item>I am not really interested in articles about security threats.</item>
+        // 12
+        <item>I\'m concerned that online companies are collecting too much personal information about me.</item>
+        <item>I\'m a little concerned that online companies are collecting too much personal information about me.</item>
+        <item>Sometimes, I\'m concerned that online companies are collecting too much personal information
+about me.</item>
+        // 15
+        <item>It is very important to me that I am aware of and knowledgeable about how my personal information will be
+used.</item>
+        <item>It is somewhat important to me that I am aware of and knowledgeable about how my personal
+information will be used.</item>
+        // 17
+        <item>I do not often procrastinate when it comes to making important decisions.</item>
+        <item>Sometimes, I procrastinate when it comes to making important decisions.</item>
+        <item>I often procrastinate when it comes to making important decisions.</item>
+        // 20
+        <item>Sometimes, I make important decisions at the last minute.</item>
+        // 21
+        <item>I make quick decisions.</item>
+        <item>Sometimes, I make quick decisions.</item>
+        <item>I do not make quick decisions.</item>
+
+    </string-array>
+
+    <string-array name="pp_codes">
+        <item>HMHK</item>
+        <item>HMLK</item>
+        <item>HMMK</item>
+        <item>LMHK</item>
+        <item>LMLK</item>
+        <item>LMMK</item>
+        <item>MMHK</item>
+        <item>MMLK</item>
+        <item>MMMK</item>
+    </string-array>
+
+    <!-- here string data for notifications / developer panel-->
+    <string-array name="device_examples">
+        <item>Smart Speaker</item>
+        <item>Identification System</item>
+        <item>Smart Fridge</item>
+        <item>Voice Assistant</item>
+        <item>Air Surveillance Drone</item>
+        <item>Security System</item>
+        <item>Face Recognition Camera</item>
+    </string-array>
+
+    <string-array name="data_types">
+        <item>Audio</item>
+        <item>Video</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="place_examples">
+        <item>Home</item>
+        <item>Work</item>
+        <item>On The Way</item>
+        <item>Restaurant / Diner</item>
+        <item>Friend / Family</item>
+        <item>Bus / Tram</item>
+        <item>Train</item>
+        <item>Other</item>
+        <item>Unknown</item>
+    </string-array>
+
+    <string-array name="assistant_choices">
+        <item>using the Notification Assistant</item>
+        <item>using the Recommendation Assistant</item>
+        <item>using the Automatic Assistant</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        style="@style/GeneralPaddingBox"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/dark_primary_color"
+        tools:context=".DevModeFragment">
+
+        <TextView
+            android:id="@+id/create_exnotf_header"
+            style="@style/SmallHeader"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/create_exnotf_header"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <Spinner
+            android:id="@+id/placeSpinner"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="96dp"
+            android:elevation="4dp"
+            android:entries="@array/place_examples"
+            android:spinnerMode="dialog"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <Spinner
+            android:id="@+id/deviceSpinner"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:elevation="4dp"
+            android:entries="@array/device_examples"
+            android:spinnerMode="dialog"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/placeSpinner" />
+
+        <Spinner
+            android:id="@+id/dataSpinner"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:elevation="4dp"
+            android:entries="@array/data_types"
+            android:spinnerMode="dialog"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/deviceSpinner" />
+
+        <Button
+            android:id="@+id/showNotfButton"
+            style="@style/Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/padding_divider"
+            android:text="@string/show_notf_button_text"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/dataSpinner" />
+
+        <Button
+            android:id="@+id/showSoonButton"
+            style="@style/Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/divider_color"
+            android:text="@string/show_soon_button_text"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/showNotfButton" />
+
+        <Button
+            android:id="@+id/showIntervalButton"
+            style="@style/Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@android:color/holo_green_light"
+            android:text="@string/show_interval_button_text"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/showSoonButton" />
+
+        <Button
+            android:id="@+id/showAtTimeButton"
+            style="@style/Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@android:color/holo_red_light"
+            android:text="@string/show_at_time_button_text"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/showIntervalButton" />
+
+        <Button
+            android:id="@+id/showMultiButton"
+            style="@style/Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/padding_std_horizontal"
+            android:text="@string/show_multi_button_text"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/showIntervalButton" />
+
+        <Button
+            android:id="@+id/gotoLIAButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/padding_std_vertical"
+            android:text="@string/set_location_button_text"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/showMultiButton" />
+
+        <Button
+            android:id="@+id/assistantChangeButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/padding_std_horizontal"
+            android:layout_marginTop="@dimen/padding_std_vertical"
+            android:text="@string/change_assistant_button_text"
+            app:layout_constraintStart_toEndOf="@+id/gotoLIAButton"
+            app:layout_constraintTop_toBottomOf="@+id/showMultiButton" />
+
+        <Button
+            android:id="@+id/recButton"
+            style="@style/Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/padding_std_vertical"
+            android:backgroundTint="#CCBD3C"
+            android:text="@string/show_rec_button_text"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/gotoLIAButton" />
+
+        <Button
+            android:id="@+id/multiRecButton"
+            style="@style/Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/padding_element"
+            android:backgroundTint="#916F09"
+            android:text="@string/show_multi_rec_button_text"
+            app:layout_constraintStart_toEndOf="@+id/recButton"
+            app:layout_constraintTop_toTopOf="@+id/recButton" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</layout>

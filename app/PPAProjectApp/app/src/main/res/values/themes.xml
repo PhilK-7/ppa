@@ -1,0 +1,44 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.PPAProjectApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. Differs between normal / dark theme. -->
+        <item name="colorPrimary">@color/primary_color</item>
+        <item name="colorPrimaryVariant">@color/dark_primary_color</item>
+        <item name="colorOnPrimary">@color/primary_text</item>
+        <item name="colorSecondary">@color/secondary_text</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">@color/accent_color</item>
+        <!-- Customize your theme here. -->
+        <!-- DO NOT set android:background, because it will set it globally, potentially for every
+        view. This means e.g. EditText cursors will have non-transparent backgrounds etc. -->
+        <item name="android:textColor">?attr/colorOnPrimary</item>
+        <item name="android:buttonTint">@color/accent_color</item>
+        <item name="android:dividerPadding">@dimen/padding_divider</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:tint">@color/text_and_icons</item>
+        <item name="android:textColorHint">?attr/colorSecondary</item>
+    </style>
+
+    <style name="Theme.PPAProjectApp.Fullscreen" parent="Theme.PPAProjectApp">
+        <item name="android:actionBarStyle">@style/Widget.Theme.PPAProjectApp.ActionBar.Fullscreen
+        </item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowBackground">@null</item>
+    </style>
+
+    <style name="ThemeOverlay.PPAProjectApp.FullscreenContainer" parent="">
+        <item name="fullscreenBackgroundColor">@color/light_blue_600</item>
+        <item name="fullscreenTextColor">@color/light_blue_A200</item>
+    </style>
+
+    <style name="Theme.PPAProjectApp.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.PPAProjectApp.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.PPAProjectApp.PopupOverlay" parent="ThemeOverlay.AppCompat.Light">
+
+    </style>
+</resources>

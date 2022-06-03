@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/home_navigation"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.philk7.ppaprojectapp.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_homeFragment_to_consentFormReadFragment"
+            app:destination="@id/consentFormReadFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_personaShowFragment"
+            app:destination="@id/personaShowFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_decisionPanelFragment"
+            app:destination="@id/decisionPanelFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_dailyDecisionsFragment"
+            app:destination="@id/dailyDecisionsFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_decisionMakingFragment"
+            app:destination="@id/decisionMakingFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_devModeFragment"
+            app:destination="@id/devModeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/consentFormReadFragment"
+        android:name="com.philk7.ppaprojectapp.ConsentFormReadFragment"
+        android:label="fragment_consent_form_read"
+        tools:layout="@layout/fragment_consent_form_read" >
+        <action
+            android:id="@+id/action_consentFormReadFragment_to_homeFragment"
+            app:destination="@id/homeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/personaShowFragment"
+        android:name="com.philk7.ppaprojectapp.PersonaShowFragment"
+        android:label="fragment_persona_show"
+        tools:layout="@layout/fragment_persona_show" >
+        <action
+            android:id="@+id/action_personaShowFragment_to_homeFragment"
+            app:destination="@id/homeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/decisionPanelFragment"
+        android:name="com.philk7.ppaprojectapp.DecisionPanelFragment"
+        android:label="DecisionPanelFragment" >
+        <action
+            android:id="@+id/action_decisionPanelFragment_to_homeFragment"
+            app:destination="@id/homeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/dailyDecisionsFragment"
+        android:name="com.philk7.ppaprojectapp.DailyDecisionsFragment"
+        android:label="fragment_daily_decisions"
+        tools:layout="@layout/fragment_daily_decisions" >
+        <action
+            android:id="@+id/action_dailyDecisionsFragment_to_homeFragment"
+            app:destination="@id/homeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/decisionMakingFragment"
+        android:name="com.philk7.ppaprojectapp.DecisionMakingFragment"
+        android:label="fragment_decision_making"
+        tools:layout="@layout/fragment_decision_making" />
+    <fragment
+        android:id="@+id/devModeFragment"
+        android:name="com.philk7.ppaprojectapp.DevModeFragment"
+        android:label="DevModeFragment" >
+        <action
+            android:id="@+id/action_devModeFragment_to_decisionMakingFragment"
+            app:destination="@id/decisionMakingFragment" />
+    </fragment>
+</navigation>

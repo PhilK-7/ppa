@@ -1,0 +1,470 @@
+[
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_custom_2_round.png.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-xhdpi/ic_launcher_custom_2_round.png"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-hdpi_mask_icon.png.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-hdpi/mask_icon.png"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_custom_2.png.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-xhdpi/ic_launcher_custom_2.png"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/anim_grow.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/anim/grow.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/layout_fragment_decision_panel.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/fragment_decision_panel.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_custom_2.png.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-mdpi/ic_launcher_custom_2.png"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/font_candal.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/font/candal.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_mask_icon_round.png.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-xxxhdpi/mask_icon_round.png"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/layout_activity_consent_form.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/activity_consent_form.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-hdpi_mask_icon_round.png.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-hdpi/mask_icon_round.png"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-xxhdpi_foreground_layer.png.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-xxhdpi/foreground_layer.png"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/layout_fragment_decision_making.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/fragment_decision_making.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-xhdpi_mask_icon.png.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-xhdpi/mask_icon.png"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/layout_fragment_movement_testing.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/fragment_movement_testing.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/font_hammersmith_one.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/font/hammersmith_one.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/font_krona_one.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/font/krona_one.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/navigation_home_navigation.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/navigation/home_navigation.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/layout_activity_home.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/anim_shift.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/anim/shift.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-mdpi_mask_icon_foreground.png.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-mdpi/mask_icon_foreground.png"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/layout_fragment_persona_result.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/fragment_persona_result.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/font_arbutus.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/font/arbutus.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/layout_activity_questionnaire.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/activity_questionnaire.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-xhdpi_mask_icon_foreground.png.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-xhdpi/mask_icon_foreground.png"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/font_doppio_one.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/font/doppio_one.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/drawable_ic_consent_form.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/drawable/ic_consent_form.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher_custom_2.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_custom_2.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/drawable_mask_icon.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/drawable/mask_icon.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/layout_fragment_persona_show.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/fragment_persona_show.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_custom_2.png.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_custom_2.png"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/font_yeseva_one.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/font/yeseva_one.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/drawable_ic_sharedpref.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/drawable/ic_sharedpref.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/anim_fade_out.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/font_laila_medium.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/font/laila_medium.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/drawable_ic_launcher_custom_2_foreground.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/drawable/ic_launcher_custom_2_foreground.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-mdpi_mask_icon.png.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-mdpi/mask_icon.png"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/font_julius_sans_one.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/font/julius_sans_one.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/font_allerta.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/font/allerta.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-xxhdpi_mask_icon.png.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-xxhdpi/mask_icon.png"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/layout_fragment_dev_mode.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/fragment_dev_mode.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-mdpi_mask_icon_round.png.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-mdpi/mask_icon_round.png"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-xxhdpi_mask_icon_foreground.png.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-xxhdpi/mask_icon_foreground.png"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/anim_fade_in_hide_slow.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/anim/fade_in_hide_slow.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/drawable_ic_dev.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/drawable/ic_dev.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/layout_fragment_assistant_choice.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/fragment_assistant_choice.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/navigation_survey_navigation.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/navigation/survey_navigation.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/layout_fragment_persona_questions.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/fragment_persona_questions.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/layout_activity_midterm_survey.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/activity_midterm_survey.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_mask_icon_foreground.png.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-xxxhdpi/mask_icon_foreground.png"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/drawable_ic_thumb_2.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/drawable/ic_thumb_2.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_custom_2.png.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-hdpi/ic_launcher_custom_2.png"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-xhdpi_mask_icon_round.png.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-xhdpi/mask_icon_round.png"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/drawable_ic_mvt.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/drawable/ic_mvt.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/layout_fragment_likert_questions.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/fragment_likert_questions.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/layout_fragment_iot_explain.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/fragment_iot_explain.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/layout_fragment_iot_questions.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/fragment_iot_questions.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-xxhdpi_mask_icon_round.png.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-xxhdpi/mask_icon_round.png"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/layout_spinner_custom.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/spinner_custom.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/anim_slide_out_special.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/anim/slide_out_special.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/layout_fragment_consent_form_read.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/fragment_consent_form_read.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/layout_activity_location_indication.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/activity_location_indication.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/anim_img_grow_bigger.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/anim/img_grow_bigger.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/drawable_ic_deny_2.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/drawable/ic_deny_2.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_mask_icon.png.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-xxxhdpi/mask_icon.png"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-anydpi-v26_mask_icon_round.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-anydpi-v26/mask_icon_round.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/layout_fragment_persona_adjustment.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/fragment_persona_adjustment.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/layout_item_decision.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/item_decision.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/generated/res/pngs/release/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_custom_2_round.png.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-hdpi/ic_launcher_custom_2_round.png"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/layout_fragment_shared_pref_viewer.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/fragment_shared_pref_viewer.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_custom_2_round.png.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_custom_2_round.png"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/drawable_ic_thumb_1.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/drawable/ic_thumb_1.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/drawable_ic_decision.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/drawable/ic_decision.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_foreground_layer.png.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-xxxhdpi/foreground_layer.png"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-hdpi_mask_icon_foreground.png.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-hdpi/mask_icon_foreground.png"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/layout_fragment_home.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/anim_slide_out_card.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/anim/slide_out_card.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher_custom_2_round.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_custom_2_round.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_custom_2_round.png.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-mdpi/ic_launcher_custom_2_round.png"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/layout_activity_firstid.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/activity_firstid.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/anim_slide_in_special.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/anim/slide_in_special.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/drawable_ic_privacy_persona.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/drawable/ic_privacy_persona.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-mdpi_foreground_layer.png.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-mdpi/foreground_layer.png"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/font_black_ops_one.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/font/black_ops_one.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_custom_2.png.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_custom_2.png"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/layout_item_spkv.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/item_spkv.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/layout_item_decision_request.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/item_decision_request.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/anim_show_delay_special.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/anim/show_delay_special.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-hdpi_foreground_layer.png.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-hdpi/foreground_layer.png"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-xhdpi_foreground_layer.png.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-xhdpi/foreground_layer.png"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/drawable_ic_deny.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/drawable/ic_deny.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/anim_fade_in.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_custom_2_round.png.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_custom_2_round.png"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/layout_fragment_intro_final.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/fragment_intro_final.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/anim_slide_in.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/anim/slide_in.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/drawable_ic_allow_2.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/drawable/ic_allow_2.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/anim_show_delay.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/anim/show_delay.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/drawable_ic_home.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/drawable/ic_home.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/anim_slide_out.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/anim/slide_out.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/layout_fragment_daily_decisions.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/fragment_daily_decisions.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/layout_fragment_person_questions.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/fragment_person_questions.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-anydpi-v26_mask_icon.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-anydpi-v26/mask_icon.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/drawable_ic_allow.xml.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/drawable/ic_allow.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/res/merged/release/raw_ppa.crt.flat",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/raw/ppa.crt"
+    }
+]

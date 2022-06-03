@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_intro_final.xml",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/fragment_intro_final.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_persona_show.xml",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/fragment_persona_show.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_dev_mode.xml",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/fragment_dev_mode.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_persona_result.xml",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/fragment_persona_result.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_iot_explain.xml",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/fragment_iot_explain.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_shared_pref_viewer.xml",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/fragment_shared_pref_viewer.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_daily_decisions.xml",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/fragment_daily_decisions.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_persona_adjustment.xml",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/fragment_persona_adjustment.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_home.xml",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_person_questions.xml",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/fragment_person_questions.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_persona_questions.xml",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/fragment_persona_questions.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_decision_panel.xml",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/fragment_decision_panel.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_midterm_survey.xml",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/activity_midterm_survey.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_iot_questions.xml",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/fragment_iot_questions.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_movement_testing.xml",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/fragment_movement_testing.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_likert_questions.xml",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/fragment_likert_questions.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_location_indication.xml",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/activity_location_indication.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_assistant_choice.xml",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/fragment_assistant_choice.xml"
+    },
+    {
+        "merged": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_decision_making.xml",
+        "source": "/Users/phil/Documents/Github/ppa_interfaces-group_two/app/PPAProjectApp/app/src/main/res/layout/fragment_decision_making.xml"
+    }
+]

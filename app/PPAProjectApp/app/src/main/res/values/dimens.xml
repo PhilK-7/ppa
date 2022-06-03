@@ -1,0 +1,12 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="padding_std_horizontal">16dp</dimen>
+    <dimen name="padding_std_vertical">24dp</dimen>
+    <dimen name="padding_divider">48dp</dimen>
+    <dimen name="padding_element">16dp</dimen>
+    <dimen name="padding_element_inner">12dp</dimen>
+    <dimen name="padding_extra_horizontal">8dp</dimen>
+    <dimen name="padding_narrow">32dp</dimen>
+    <dimen name="padding_big">160dp</dimen>
+    <dimen name="padding_huge">320dp</dimen>
+</resources>

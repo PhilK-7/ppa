@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.philk7.ppaprojectapp"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="30" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACTIVITY_RECOGNITION" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher_custom_2"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_custom_2_round"
+        android:supportsRtl="false"
+        android:testOnly="true"
+        android:theme="@style/Theme.PPAProjectApp" >
+        <activity android:name="com.philk7.ppaprojectapp.LocationIndicationActivity" />
+        <activity android:name="com.philk7.ppaprojectapp.MidtermSurveyActivity" />
+        <activity
+            android:name="com.philk7.ppaprojectapp.StartActivity"
+            android:noHistory="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.philk7.ppaprojectapp.HomeActivity"
+            android:label="@string/title_activity_home"
+            android:theme="@style/Theme.PPAProjectApp.NoActionBar" />
+        <activity android:name="com.philk7.ppaprojectapp.QuestionnaireActivity" />
+        <activity android:name="com.philk7.ppaprojectapp.ConsentFormActivity" />
+        <activity
+            android:name="com.philk7.ppaprojectapp.FirstIDActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.PPAProjectApp.Fullscreen" />
+
+        <receiver android:name="com.philk7.ppaprojectapp.HomeActivity$Companion$MainReceiver" />
+        <receiver android:name="com.philk7.ppaprojectapp.HomeActivity$Companion$DecisionRequestReceiver" />
+    </application>
+
+</manifest>

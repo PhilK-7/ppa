@@ -1,0 +1,146 @@
+<resources>
+
+    <style name="Widget.Theme.PPAProjectApp.ActionBar.Fullscreen" parent="Widget.AppCompat.ActionBar">
+        <item name="android:background">@color/black_overlay</item>
+    </style>
+
+    <style name="Widget.Theme.PPAProjectApp.ButtonBar.Fullscreen" parent="">
+        <item name="android:background">@color/black_overlay</item>
+        <item name="android:buttonBarStyle">?android:attr/buttonBarStyle</item>
+    </style>
+
+    <!-- custom styles below -->
+
+
+    <style name="AlertDialogCustom" parent="Theme.AppCompat.Dialog.Alert">
+        <item name="android:buttonTint">@color/accent_color</item>
+    </style>
+    <style name="TimePickerCustom" parent="Theme.AppCompat.Dialog">
+        <item name="android:buttonTint">@color/accent_color</item>
+        <item name="android:windowBackground">@color/dark_primary_color</item>
+    </style>
+
+
+    <style name="Card">
+        <item name="cardCornerRadius">10dp</item>
+        <item name="cardElevation">12dp</item>
+        <item name="contentPadding">@dimen/padding_element_inner</item>
+        <item name="cardBackgroundColor">@color/primary_color</item>
+        <!-- Layout margins are layout params, therefore they cannot be applied through themes.
+        This means the style must be applied separately to each view. -->
+        <item name="android:layout_marginTop">@dimen/padding_element</item>
+        <item name="android:layout_marginBottom">@dimen/padding_element</item>
+        <item name="android:layout_marginLeft">@dimen/padding_extra_horizontal</item>
+        <item name="android:layout_marginRight">@dimen/padding_extra_horizontal</item>
+    </style>
+
+    <style name="CardTitle">
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="CardImg">
+        <item name="android:elevation">8dp</item>
+        <item name="android:layout_margin">10dp</item>
+    </style>
+
+    <style name="GeneralPaddingBox">
+        <item name="android:paddingLeft">@dimen/padding_std_horizontal</item>
+        <item name="android:paddingRight">@dimen/padding_std_horizontal</item>
+        <item name="android:paddingTop">@dimen/padding_std_vertical</item>
+        <item name="android:paddingBottom">@dimen/padding_std_vertical</item>
+    </style>
+
+    <style name="BigText">
+        <item name="android:fontFamily">sans-serif-black</item>
+        <item name="android:textSize">36sp</item>
+        <item name="android:textColor">@color/accent_color</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="BigTextHeader">
+        <item name="android:fontFamily">sans-serif-black</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:paddingBottom">@dimen/padding_element</item>
+    </style>
+
+    <style name="SmallHeader">
+        <item name="android:paddingBottom">@dimen/padding_element</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="StatementOrQuestionText">
+        <item name="android:textSize">24sp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="StatementOrQuestionTextBigger">
+        <item name="android:textSize">28sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Button">
+        <item name="android:backgroundTint">@color/accent_color</item>
+        <item name="android:strokeWidth">2</item>
+        <item name="android:strokeColor">@color/text_and_icons</item>
+        <item name="cornerRadius">10dp</item>
+        <item name="android:elevation">16dp</item>
+    </style>
+
+    <style name="ButtonSpecial">
+        <item name="android:backgroundTint">@color/text_and_icons</item>
+        <item name="android:strokeWidth">4</item>
+        <item name="android:strokeColor">@color/text_and_icons</item>
+        <item name="cornerRadius">10dp</item>
+        <item name="android:elevation">32dp</item>
+    </style>
+
+    <style name="Label">
+        <item name="android:textColor">@color/secondary_text</item>
+        <item name="android:paddingBottom">@dimen/padding_element</item>
+        <item name="android:paddingTop">@dimen/padding_element</item>
+    </style>
+
+    <style name="ProgBar" parent="Widget.AppCompat.SeekBar.Discrete">
+        <item name="android:paddingTop">@dimen/padding_element</item>
+        <item name="android:paddingBottom">@dimen/padding_element</item>
+        <item name="android:progressTint">@color/accent_color</item>
+        <item name="android:progressBackgroundTint">@color/text_and_icons</item>
+    </style>
+
+    <style name="EditText">
+        <item name="android:textColor">@color/accent_color</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="ListText" parent="GeneralPaddingBox">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="TextRowSuccessor">
+        <item name="android:paddingRight">24dp</item>
+    </style>
+
+    <style name="TextRowStart">
+        <item name="android:textColor">@color/secondary_text</item>
+    </style>
+
+    <style name="SmallHeaderAcc" parent="SmallHeader">
+        <item name="android:textColor">@color/accent_color</item>
+    </style>
+
+    <style name="RecycleCard" parent="Card">
+        <item name="cardElevation">4dp</item>
+        <item name="cardBackgroundColor">@color/dark_primary_color</item>
+    </style>
+
+    <style name="RecycleCard2" parent="RecycleCard">
+        <item name="cardBackgroundColor">@color/dark_primary_color</item>
+    </style>
+
+    <style name="DecisionImageButton">
+        <item name="backgroundTint">@color/light_primary_color</item>
+    </style>
+
+</resources>
